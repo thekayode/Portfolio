@@ -59,27 +59,6 @@ This new balanced dataset was used to train and evaluate the model to avoid bias
 
 ---
 
-## 📈 Future Improvements
-
-- Use additional evaluation metrics: precision, recall, F1-score  
-- Explore advanced models: Random Forest, XGBoost, Neural Networks  
-- Apply sampling techniques like SMOTE  
-- Create a full ML pipeline for reproducibility and scalability  
-
----
-
-## 📁 Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/fraud-detection.git
-cd fraud-detection
-
-# Install required libraries
-pip install -r requirements.txt
-
-# Run the notebook or script
-python fraud_detection.py
 🙌 Acknowledgments
 Kaggle Credit Card Fraud Dataset
 
